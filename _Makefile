@@ -1,0 +1,2 @@
+all:
+	gcc main.c -o snapnsolve `pkg-config opencv --libs` `pkg-config opencv --cflags` -lccgi
