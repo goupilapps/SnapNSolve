@@ -1,2 +1,2 @@
 all:
-	gcc main.c -o snapnsolve `pkg-config opencv --libs` `pkg-config opencv --cflags` -lccgi
+	gcc main.c solveMath.c -o solveMath `pkg-config opencv --libs --cflags` `curl-config --cflags --libs` -lccgi

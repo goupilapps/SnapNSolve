@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='6'
+    datatypes='Math'
+    timedout=''
+    timedoutpods=''
+    timing='0.465'
+    parsetiming='0.104'
+    parsetimedout='false'
+    recalculate=''
+    id='MSPa32901a0g1fehib8c334e00001gd5h38f7ebeh917'
+    host='http://www4b.wolframalpha.com'
+    server='35'
+    related='http://www4b.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa32911a0g1fehib8c334e0000578g1i40516hf7ab&amp;s=35'
+    version='2.5'>
+ <pod title='Input'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>6+3</plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32921a0g1fehib8c334e000057d0hi27f9b3c61f?MSPStoreType=image/gif&amp;s=35'
+       alt='6+3'
+       title='6+3'
+       width='32'
+       height='18' />
+  </subpod>
+ </pod>
+ <pod title='Result'
+     scanner='Identity'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''
+      primary='true'>
+   <plaintext>9</plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32931a0g1fehib8c334e00004254e3di9bd61204?MSPStoreType=image/gif&amp;s=35'
+       alt='9'
+       title='9'
+       width='8'
+       height='18' />
+  </subpod>
+ </pod>
+ <pod title='Number name'
+     scanner='Integer'
+     id='NumberName'
+     position='300'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>nine</plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32941a0g1fehib8c334e00001d8a0c3d2fi5d7ch?MSPStoreType=image/gif&amp;s=35'
+       alt='nine'
+       title='nine'
+       width='29'
+       height='18' />
+  </subpod>
+ </pod>
+ <pod title='Visual representation'
+     scanner='Integer'
+     id='VisualRepresentation'
+     position='400'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>* * * * * * * * *</plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32951a0g1fehib8c334e00003ibf44c758igb494?MSPStoreType=image/gif&amp;s=35'
+       alt='* * * * * * * * *'
+       title='* * * * * * * * *'
+       width='114'
+       height='17' />
+  </subpod>
+ </pod>
+ <pod title='Number line'
+     scanner='NumberLine'
+     id='NumberLine'
+     position='500'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext></plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32961a0g1fehib8c334e00001bbie58i4gd9c665?MSPStoreType=image/gif&amp;s=35'
+       alt=''
+       title=''
+       width='300'
+       height='56' />
+  </subpod>
+ </pod>
+ <pod title='Typical human computation times'
+     scanner='Arithmetic'
+     id='TypicalHumanComputationTimes'
+     position='600'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <plaintext>age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |  
+age 18:  0.91 seconds
+(ignoring concentration, repetition, variations in education, etc.)</plaintext>
+   <img src='http://www4b.wolframalpha.com/Calculate/MSP/MSP32971a0g1fehib8c334e00002a3ec971h26iaiab?MSPStoreType=image/gif&amp;s=35'
+       alt='age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |  
+age 18:  0.91 seconds
+(ignoring concentration, repetition, variations in education, etc.)'
+       title='age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |  
+age 18:  0.91 seconds
+(ignoring concentration, repetition, variations in education, etc.)'
+       width='470'
+       height='57' />
+  </subpod>
+  <states count='1'>
+   <state name='More details'
+       input='TypicalHumanComputationTimes__More details' />
+  </states>
+ </pod>
+ <sources count='1'>
+  <source url='http://www.wolframalpha.com/sources/HumanComputationQuerySourceInformationNotes.html'
+      text='Human computation query' />
+ </sources>
+</queryresult>

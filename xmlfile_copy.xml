@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryresult success="true" error="false" numpods="6" datatypes="Math" timedout="" timedoutpods="" timing="0.494" parsetiming="0.074" parsetimedout="false" recalculate="" id="MSPa15571a0g246di95594060000613928c0983b906e" host="http://www3.wolframalpha.com" server="21" related="http://www3.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa15581a0g246di955940600002g04021gg95ff9af&amp;s=21" version="2.5">
+ <pod title="Input" scanner="Identity" id="Input" position="100" error="false" numsubpods="1">
+  <subpod title="">
+   <plaintext>6+3</plaintext>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15591a0g246di955940600005f9g594841hbg2id?MSPStoreType=image/gif&amp;s=21" alt="6+3" title="6+3" width="32" height="18"/>
+  </subpod>
+ </pod>
+ <pod title="Result" scanner="Identity" id="Result" position="200" error="false" numsubpods="1" primary="true">
+  <subpod title="" primary="true">
+   <plaintext>9</plaintext>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15601a0g246di955940600003hi882c014ia1g39?MSPStoreType=image/gif&amp;s=21" alt="9" title="9" width="8" height="18"/>
+  </subpod>
+ </pod>
+ <pod title="Number name" scanner="Integer" id="NumberName" position="300" error="false" numsubpods="1">
+  <subpod title="">
+   <plaintext>nine</plaintext>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15611a0g246di9559406000062g233acaia2ai24?MSPStoreType=image/gif&amp;s=21" alt="nine" title="nine" width="29" height="18"/>
+  </subpod>
+ </pod>
+ <pod title="Visual representation" scanner="Integer" id="VisualRepresentation" position="400" error="false" numsubpods="1">
+  <subpod title="">
+   <plaintext>* * * * * * * * *</plaintext>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15621a0g246di9559406000043f3bcddb1gfg8dh?MSPStoreType=image/gif&amp;s=21" alt="* * * * * * * * *" title="* * * * * * * * *" width="114" height="17"/>
+  </subpod>
+ </pod>
+ <pod title="Number line" scanner="NumberLine" id="NumberLine" position="500" error="false" numsubpods="1">
+  <subpod title="">
+   <plaintext/>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15631a0g246di9559406000068abb7d902dbb60f?MSPStoreType=image/gif&amp;s=21" alt="" title="" width="300" height="56"/>
+  </subpod>
+ </pod>
+ <pod title="Typical human computation times" scanner="Arithmetic" id="TypicalHumanComputationTimes" position="600" error="false" numsubpods="1">
+  <subpod title="">
+   <plaintext>age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |  
+age 18:  0.91 seconds
+(ignoring concentration, repetition, variations in education, etc.)</plaintext>
+   <img src="http://www3.wolframalpha.com/Calculate/MSP/MSP15641a0g246di95594060000293g03ch3996002h?MSPStoreType=image/gif&amp;s=21" alt="age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |   age 18:  0.91 seconds (ignoring concentration, repetition, variations in education, etc.)" title="age 6:  4.8 seconds  |  age 8:  2.4 seconds  |  age 10:  1.6 seconds  |   age 18:  0.91 seconds (ignoring concentration, repetition, variations in education, etc.)" width="470" height="57"/>
+  </subpod>
+  <states count="1">
+   <state name="More details" input="TypicalHumanComputationTimes__More details"/>
+  </states>
+ </pod>
+ <sources count="1">
+  <source url="http://www.wolframalpha.com/sources/HumanComputationQuerySourceInformationNotes.html" text="Human computation query"/>
+ </sources>
+</queryresult>
